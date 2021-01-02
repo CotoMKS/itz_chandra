@@ -1,0 +1,82 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 3.5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #32aabb;
+}
+
+::-webkit-scrollbar-button:start {
+    height: 60px;
+    background: #248896;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-custom {
+    background: #248896;
+}
+
+@keyframes intro1 {
+    0% {
+        opacity: 0;
+        right: 250px;
+    }
+    25% {
+        opacity: 0.1;
+    }
+    100% {
+        opacity: 1;
+        right: 0;
+    }
+}
+
+.cover {
+    background: #32aabb;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    animation: intro1 0.85s ease-in-out;
+    transition: 0.5s;
+}
+
+.cover-error {
+    background: #32aabb;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+}
+
+.justified {
+    text-align: justify;
+}
+
+.overflow-hidden-x {
+    overflow-x: hidden;
+}
+
+.fade-enter {
+    opacity: 0;
+    z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 250ms ease-in;
+}
+
+.navbar-toggler,
+.navbar-toggler:active {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
