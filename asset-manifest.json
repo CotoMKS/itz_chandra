@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c4f5106.chunk.css",
+    "main.js": "/static/js/main.4ee26ec0.chunk.js",
+    "main.js.map": "/static/js/main.4ee26ec0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b6ff1c52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b6ff1c52.js.map",
+    "static/css/2.ec02d681.chunk.css": "/static/css/2.ec02d681.chunk.css",
+    "static/js/2.4c6bbd2e.chunk.js": "/static/js/2.4c6bbd2e.chunk.js",
+    "static/js/2.4c6bbd2e.chunk.js.map": "/static/js/2.4c6bbd2e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.9c4f5106.chunk.css.map": "/static/css/main.9c4f5106.chunk.css.map",
+    "static/js/2.4c6bbd2e.chunk.js.LICENSE.txt": "/static/js/2.4c6bbd2e.chunk.js.LICENSE.txt",
+    "static/media/hikawa-sayo-website.459cd2ed.png": "/static/media/hikawa-sayo-website.459cd2ed.png",
+    "static/media/my-op-website.37d9d547.png": "/static/media/my-op-website.37d9d547.png",
+    "static/media/pisp-sulsel.251761e4.png": "/static/media/pisp-sulsel.251761e4.png",
+    "static/media/sayo-hikawa-website.f71677cb.png": "/static/media/sayo-hikawa-website.f71677cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ff1c52.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.4c6bbd2e.chunk.js",
+    "static/css/main.9c4f5106.chunk.css",
+    "static/js/main.4ee26ec0.chunk.js"
+  ]
+}
